@@ -1,12 +1,12 @@
 {
-  "version": "1.0.6",
-  "download_url": "https://github.com/hyveli/wp-accessibility-toolkit-dist/releases/download/v1.0.6/wp-accessibility-toolkit.zip",
+  "version": "1.0.7",
+  "download_url": "https://github.com/hyveli/wp-accessibility-toolkit-dist/releases/download/v1.0.7/wp-accessibility-toolkit.zip",
   "requires": "6.0",
   "tested": "6.4",
   "requires_php": "8.0",
-  "last_updated": "2025-03-02 00:00:00",
+  "last_updated": "2026-03-02 21:22:59",
   "sections": {
-    "description": "A self-contained WordPress plugin that implements WCAG 2.1 AA accessibility best practices.",
-    "changelog": "<h4>1.0.6</h4><ul><li>Added skip navigation link</li><li>Added enhanced focus indicators</li><li>Improved WCAG 2.1 AA compliance</li></ul>"
+    "description": "A self-contained WordPress plugin that implements WCAG 2.1 AA accessibility best practices site-wide with one-click toggles. No overlays, real fixes only.",
+    "changelog": "<h4>1.0.7</h4><ul><li>Check the release notes for details</li></ul>"
   }
 }
